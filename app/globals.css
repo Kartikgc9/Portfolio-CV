@@ -1,0 +1,14 @@
+/* app/globals.css */
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  scroll-behavior: smooth;
+  background-color: #fdfdfd;
+}
+
+::selection {
+  background-color: #c7d2fe;
+  color: #1e1b4b;
+}

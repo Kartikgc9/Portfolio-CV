@@ -14,13 +14,16 @@ export default function Experience() {
       },
       
       {
-        title: "Hardware & Signal Processing Intern",
-        company: "Project: AI-Enhanced Adaptive Noise Cancellation",
-        period: "Jan 2025 – Mar 2025",
+        title: "Summer Intern",
+        company: "ONGC(Oil and Natural Gas Corporation India Limited, New Delhi)(On-Site)",
+        period: "Jun 2025 – July 2025",
         highlights: [
-          "Designed a hybrid DSP-AI system using LMS filters and LSTM networks for active noise cancellation.",
-          "Developed the signal pipeline using Librosa, SoundDevice, and TensorFlow.",
-          "Deployed real-time inference on Raspberry Pi with custom electret mic array.",
+          "This project implements a secure visitor entry API using Express.js, with JWT authentication for controlled access.",
+          "APIs support real-time recording, user login, and visitor filtering by date, time, and employee.",
+          "A Power BI dashboard was created to visualize visitor behavior, revealing peak load trends (30%) and employee-wise visit counts.",
+          "This system enhances organizational transparency, improves analysis speed by 65%, and scales for enterprise use.",
+          "Developed custom SAP ABAP modules for HRM and FM, including dynamic reports, multi-screen interfaces, and interactive internal tables.",
+          "Designed and implemented database tables, ALV reports, and screen logic to streamline workflows within ONGCs enterprise system with a Training only access to the software.",
         ],
       },
     ];
